@@ -1,4 +1,4 @@
-# Basic pairing interview
+# QF Coding Test
 
 ## 1. Getting started
 
